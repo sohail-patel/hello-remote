@@ -1,1 +1,2 @@
 Here is some test we are adding to demo.txt
+And here's the local edit.
